@@ -1,0 +1,3 @@
+primera cadena
+segunda cadena
+tercera cadena
